@@ -1,0 +1,6 @@
+{
+  "name": "烏羽裁決：界碑試煉 (Raven's Verdict)",
+  "description": "類魂 2D 斜視角動作遊戲，支援六國語言即時切換、幽影翻滾無敵幀、蓄力斬擊與魔物決戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
